@@ -39,7 +39,7 @@ The dataset contains the following columns, each offering valuable insights into
 - Examined customer categories to identify high-value groups.
 4. Visualizations
   
-B- ar charts for transaction counts by store type and city.
+- Bar charts for transaction counts by store type and city.
 - Line plots for sales trends over time.
 - Pie charts to show the distribution of payment methods.
 - Heatmaps to visualize correlations between numerical features.
@@ -53,13 +53,15 @@ B- ar charts for transaction counts by store type and city.
 1. Navigate to the project directory:  
 bash
 Copy code
-cd transaction-analysis-python  
+cd transaction-analysis-python
+  
 2.Install the required libraries using the requirements(libraries are matplotlib,numpy,pandas,seaborn,statistics.txt file:
 
-bash
-Copy code
+bash  
+Copy code  
 pip install -r requirements.txt  
-3.Open the Jupyter Notebook file (Transaction_Analysis.ipynb) to explore the analysis.
+
+3.Open the Jupyter Notebook file (Customer_Transaction.ipynb) to explore the analysis.
 ### Deliverables
 - Jupyter Notebook: Includes the full data cleaning, analysis, and visualization workflow.
 - Dataset: A cleaned version of the dataset (if publicly shareable).
